@@ -20,5 +20,5 @@ Over time Coding Dojo has built many great pieces of curriculum.  However, entir
 - [ ] One new Belt Exam added each 2 months (old exams become Reviewers or project ideas?)
 - [ ] Project page (post-exam) with appropriately-sized ideas (incl. social good & corporate partners)
 - [ ] Ajax mat'l early and often (week 2), to avoid last-minute cramming for the Belt Exam
-- [x] Deployment mat'l early and often (week 2), to avoid last-minute cramming for the Belt Exam
-- [x] All Belt Exams include deployment and Ajax (and are otherwise up-to-date)
+- [x] ~~Deployment mat'l early and often (week 2), to avoid last-minute cramming for the Belt Exam~~
+- [x] ~~All Belt Exams include deployment and Ajax (and are otherwise up-to-date)~~
